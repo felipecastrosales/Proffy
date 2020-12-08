@@ -81,9 +81,6 @@
    - For install dependencies:
    $ npm install
 
-   - Execute application:
-   $ npm start
-
    - Execute server:
    $ npm run dev
 
